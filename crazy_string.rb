@@ -4,6 +4,6 @@ def crazy_strings(a,b)
   a = "Hello"
   b = "Friends"
   
-  puts a.reverse.upcase + b.
+  puts a.reverse.upcase + b.swapcase.gsub()
 
 end
